@@ -12,3 +12,17 @@ Dado a que toda la aplicación se encuentra dentro de un paquete y no estamos us
 ```
 javac Arreglos/Arreglo.java
 ```
+
+Seguidamente escribe el siguiente comando:
+
+```
+javac Arreglos/UIArreglos.java
+```
+Tras esto se crearán los ```.class``` necesarios.
+
+# Ejecutar.
+Finalmente, para ejecutar unicamente escribe en tu terminal:
+
+```
+java Arreglos.UIArreglos
+```
